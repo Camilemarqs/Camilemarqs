@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Camile Isidorio, tenho 20 anos e sou natural do Ceará. Atualmente, estou cursando Engenharia de Software na UFC e tenho grande interesse no desenvolvimento back-end. A maior parte dos meus projetos acadêmicos foi focada nessa área, mas estou explorando o front-end para expandir meus conhecimentos e me tornar uma desenvolvedora mais completa.
+Me chamo Camile Isidorio, tenho 20 anos e sou natural do Ceará. Atualmente, estou cursando Engenharia de Software na UFC e tenho grande interesse no desenvolvimento full-stack. A maior parte dos meus projetos acadêmicos foram focadas em backend, mas estou me aprimorando no front-end para expandir meus conhecimentos e me tornar uma desenvolvedora mais completa.
 
 🔹 Experiência acadêmica com Java, Spring Boot e JPA
 
